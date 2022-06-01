@@ -4,6 +4,9 @@ go-djikstra is a Golang program illustrating the famous Djikstra algorithm for p
 
 ## Usage
 
+I'm using Fyne for the GUI, you will maybe need gcc compiler to be installed and so on,
+check it out : https://developer.fyne.io/started/
+
 You can launch the program, build wall, and then start the pathfinding !
 
 ## Contributing
